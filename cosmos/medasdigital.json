@@ -49,5 +49,6 @@
       "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/medasdigital/umedas.png"
     }
   ],
+  "walletUrlForStaking": "https://app.medas-digital.io:4000"
   "features": []
 }

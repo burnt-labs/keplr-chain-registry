@@ -31,6 +31,13 @@
       "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/injective/inj.png"
     },
     {
+      "coinDenom": "USDT",
+      "coinDecimals": 6,
+      "coinMinimalDenom": "peggy0xdAC17F958D2ee523a2206206994597C13D831ec7",
+      "coinGeckoId": "tether",
+      "coinImageUrl": "https://raw.githubusercontent.com/chainapsis/keplr-chain-registry/main/images/injective/peggy0xdAC17F958D2ee523a2206206994597C13D831ec7.png"
+    },
+    {
       "coinDenom": "NINJA",
       "coinDecimals": 6,
       "coinMinimalDenom": "factory/inj1xtel2knkt8hmc9dnzpjz6kdmacgcfmlv5f308w/ninja",
@@ -116,9 +123,5 @@
       }
     }
   ],
-  "features": [
-    "eth-address-gen",
-    "eth-key-sign",
-    "cosmwasm"
-  ]
+  "features": ["eth-address-gen", "eth-key-sign", "cosmwasm"]
 }
